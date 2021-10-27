@@ -1,2 +1,2 @@
-# RankHacker
-##Solutions RankHacker .py 
+# RankHacker :paperclip:
+## Solutions RankHacker 🐲
